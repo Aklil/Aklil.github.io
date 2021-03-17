@@ -139,6 +139,12 @@
      "parent": "7fee54d0-a413-4396-852f-2b31b507386b",
      "id": "ac8a93ef-0e76-4731-a632-75afe11c7e55"
    },
+    {
+    "name" : "Amibara",
+    "nodeType" : "WOREDA",
+    "parent" : "3321d511-d8e9-44e7-83ca-133c13869d3d",
+    "id" : "93d03368-dd99-47df-98bf-5f304f0875dd"
+  },
    
    {
      "name": "Seru",
@@ -404,6 +410,636 @@
      "nodeType": "WOREDA",
      "parent": "6c1dbeef-972d-40d1-89d1-8bad91519ab7",
      "id": "0a19f3ad-9658-4b41-8d34-8e1805d80eed"
-   }  
+   } ,
+   {
+        "name": "Angelile",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "91fbc3e5-f060-444a-86c0-fd562dc4d8fe"
+      },
+      {
+        "name": "Asoba",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "82f8c395-fbdd-499a-9933-3748535a6233"
+      },
+      {
+        "name": "Awash",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "56ea82bc-c80c-4ad4-9e17-d2d3f83f70b0"
+      },
+      {
+        "name": "Awash Arba",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "b5a2dda6-3549-4a6b-bffc-5fd81045550f"
+      },
+      {
+        "name": "Awash Arba Town",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "3bcbf951-b15f-4d9f-b5cd-689c21f9a1d8"
+      },
+      {
+        "name": "Awash Sheleko",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "86bff3d4-e09a-4c3d-ac3d-f2771c57d0a4"
+      },
+      {
+        "name": "Awash Sheleko Town",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "699ecbaf-da24-4389-960f-98dc0bc43a9a"
+      },
+      {
+        "name": "Bedul Ale",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "58569c19-80c1-477b-b8fc-4e1afc04651e"
+      },
+      {
+        "name": "Berta Town",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "99613b8a-8412-469c-aa4f-c461ab553fa2"
+      },
+      {
+        "name": "Bilan",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "99ef30ed-fae9-4489-9cd6-8cf23f625502"
+      },
+      {
+        "name": "Bonta",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "7692f0a3-3b41-4354-be2f-5b7bc66a44ec"
+      },
+      {
+        "name": "Buri",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "ab3a30af-ea53-4243-b58b-aef942a7c133"
+      },
+      {
+        "name": "Eibile",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "8031ddb6-6b55-421b-9aca-8054eb7bf382"
+      },
+      {
+        "name": "Garba-Cise",
+        "nodeType": "KEBELE",
+        "parent": "01d63c98-a1a7-4630-b58d-6fa6225a4604",
+        "id": "6bd90eb7-3659-4072-8558-4d37950e42cb"
+      },
+      {
+        "name": "Gelsa",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "688b6610-79d6-4608-83b4-bfeb7882db0f"
+      },
+      {
+        "name": "Halay Sumale",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "c214b11a-f8ad-48c9-b874-b42b1ae150c0"
+      },
+      {
+        "name": "Hali Debe",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "e5c8b021-76f5-4ef7-ac33-a7422d1bf60c"
+      },
+      {
+        "name": "Kifil Sost Town",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "1f8b9f14-b3e5-4334-a779-2950983cb921"
+      },
+      {
+        "name": "Koma Gidiyaro",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "1b5e8a16-4a75-4bb1-87a9-6609b781ba65"
+      },
+      {
+        "name": "Melka Sedi Town",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "fd3c4769-5cfe-4a06-b4ad-68c6bd482cdc"
+      },
+      {
+        "name": "Melka Werer Town",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "fce36307-6fa8-41e0-baba-160e0696fe43"
+      },
+      {
+        "name": "Qalacle",
+        "nodeType": "KEBELE",
+        "parent": "f35b6774-443b-4448-be4b-8ddb7a117118",
+        "id": "17d975d6-bd2a-41cd-9eb0-820d066af9ed"
+      },
+      {
+        "name": "Qurqure",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "aabb108e-04f5-4ac5-8dec-49cb68906d94"
+      },
+      {
+        "name": "Serkamo",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "12b7375b-b1cf-4716-a886-36f722d91ed0"
+      },
+      {
+        "name": "Serkam Town",
+        "nodeType": "KEBELE",
+        "parent": "93d03368-dd99-47df-98bf-5f304f0875dd",
+        "id": "5f7a2df0-1934-4840-a49e-064001d5bcf4"
+      },
+      {
+        "name": "Abali",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "99ad1a37-51ab-47be-9f12-2507fbfd450b"
+      },
+      {
+        "name": "Bilu",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "c1721f07-525b-48de-918a-8938c2a96d91"
+      },
+      {
+        "name": "Cheno",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "49157dce-0d69-4f00-a372-d722404929ac"
+      },
+      {
+        "name": "Chisa",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "48a8849f-cc7d-4b8a-985e-1a502c16e425"
+      },
+      {
+        "name": "Dabireko",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "da925360-cc04-49d7-a3ba-a4260a50b3d8"
+      },
+      {
+        "name": "Dire",
+        "nodeType": "KEBELE",
+        "parent": "5c7b7eb1-63f2-488e-ae48-7277cd6e38d9",
+        "id": "04e4f808-386b-4107-bd68-d0588391d540"
+      },
+      {
+        "name": "Dulecha Town",
+        "nodeType": "KEBELE",
+        "parent": "5c7b7eb1-63f2-488e-ae48-7277cd6e38d9",
+        "id": "1e442163-601e-4f62-9d4f-3e75ae3e2139"
+      },
+      {
+        "name": "Gachine Town",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "2232c131-b416-4e3c-802b-4ee0408460de"
+      },
+      {
+        "name": "Geberoch",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "4f72b627-1024-4119-b55d-a191adadd42a"
+      },
+      {
+        "name": "Goze",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "0eff7f49-59dc-4088-aa26-cae4c05db978"
+      },
+      {
+        "name": "Layimetatebiya",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "a031927a-9079-4ba6-b315-7b42d2a730d0"
+      },
+      {
+        "name": "Sofiy Ager",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "10fcd4f7-e977-47d1-b200-6821916762fb"
+      },
+      {
+        "name": "Tachimetatebiya",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "33a0892f-4ad5-47bb-ab6e-21158c3ca6c5"
+      },
+      {
+        "name": "Warka Amba",
+        "nodeType": "KEBELE",
+        "parent": "1e2cfa70-6e8a-4067-b2e0-9bed7ef04734",
+        "id": "9bef6d7e-095d-4ddf-a99d-a0c944681280"
+      },
+      {
+        "name": "Awash Biherawi Park",
+        "nodeType": "KEBELE",
+        "parent": "05d4b1a8-9168-4604-aa3c-0dc1bfe70fa6",
+        "id": "b7b7eb9e-3520-433b-8aea-f615e65c4cc4"
+      },
+      {
+        "name": "Awash Sebat Kilo Town",
+        "nodeType": "KEBELE",
+        "parent": "05d4b1a8-9168-4604-aa3c-0dc1bfe70fa6",
+        "id": "29bf163f-8e7d-4442-b75f-439dddec6fa6"
+      },
+      {
+        "name": "Awura Melka Irsha Limat",
+        "nodeType": "KEBELE",
+        "parent": "05d4b1a8-9168-4604-aa3c-0dc1bfe70fa6",
+        "id": "5ff17bb0-ab3e-418c-9a71-5fa11b8b7ed7"
+      },
+      {
+        "name": "Bolodita",
+        "nodeType": "KEBELE",
+        "parent": "05d4b1a8-9168-4604-aa3c-0dc1bfe70fa6",
+        "id": "1a11e6d8-c82b-4dd2-b6f7-00fd10eca30f"
+      },
+      {
+        "name": "Diduba",
+        "nodeType": "KEBELE",
+        "parent": "05d4b1a8-9168-4604-aa3c-0dc1bfe70fa6",
+        "id": "d48da00b-ba08-48bf-83aa-9e36f26adb98"
+      },
+      {
+        "name": "Diho",
+        "nodeType": "KEBELE",
+        "parent": "05d4b1a8-9168-4604-aa3c-0dc1bfe70fa6",
+        "id": "4c243045-c067-4e2d-999a-acb762d42de9"
+      },
+      {
+        "name": "Kebena",
+        "nodeType": "KEBELE",
+        "parent": "05d4b1a8-9168-4604-aa3c-0dc1bfe70fa6",
+        "id": "6bec242a-2e79-41b4-aeda-363374f6987c"
+      },
+      {
+        "name": "Sabure",
+        "nodeType": "KEBELE",
+        "parent": "05d4b1a8-9168-4604-aa3c-0dc1bfe70fa6",
+        "id": "665cca6d-c243-4930-9bec-02f91d41c1cd"
+      },
+      {
+        "name": "Sabure Town",
+        "nodeType": "KEBELE",
+        "parent": "05d4b1a8-9168-4604-aa3c-0dc1bfe70fa6",
+        "id": "1927efb6-fe33-47a2-8a1c-e68eefd26415"
+      },
+      {
+        "name": "Adalalita",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "eaa0b248-26c7-4ddc-bcfe-8b90c01725a9"
+      },
+      {
+        "name": "Atayena Dullaale",
+        "nodeType": "KEBELE",
+        "parent": "95749bc5-132f-4535-b1e0-27e1d3143f2b",
+        "id": "27789298-3950-4577-8883-420117943e17"
+      },
+      {
+        "name": "Buri",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "05b07f04-5cb8-4d7f-a277-04e9c7cb44b8"
+      },
+      {
+        "name": "Dengelgita",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "b657a094-2c3d-4e69-bc42-ba40abcf016a"
+      },
+      {
+        "name": "Derebto",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "1c383dee-889d-4b8f-9ee8-691bbf089a8e"
+      },
+      {
+        "name": "Diyara",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "43b0e4d3-e893-4428-b378-866bb38f17d8"
+      },
+      {
+        "name": "Faayana Keyneedose",
+        "nodeType": "KEBELE",
+        "parent": "95749bc5-132f-4535-b1e0-27e1d3143f2b",
+        "id": "5d7b36f7-c2f4-47d8-a736-2e0afe045685"
+      },
+      {
+        "name": "Kilelona Gamora",
+        "nodeType": "KEBELE",
+        "parent": "86854d50-f6e5-4315-b0a3-74e7c1a810fd",
+        "id": "570003d8-a97a-485b-8cbb-61a02f767ab2"
+      },
+      {
+        "name": "Moroburi",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "c9c5f415-3a06-4a07-a4a8-56c1427c396c"
+      },
+      {
+        "name": "Rebana Segento",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "03f3dec2-b56d-478b-8a27-f808071aabca"
+      },
+      {
+        "name": "Sebulina Wenhara",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "c9600b9c-2d95-4c47-803f-ca6806ac442b"
+      },
+      {
+        "name": "Swampy Area",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "6da2f43d-270f-447d-b133-e725759948fe"
+      },
+      {
+        "name": "Tutili",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "69fb0c9c-3310-4bd7-aba2-0e7b1fdff59e"
+      },
+      {
+        "name": "Umedana Kus Lededori",
+        "nodeType": "KEBELE",
+        "parent": "95749bc5-132f-4535-b1e0-27e1d3143f2b",
+        "id": "08b9ae10-a3ab-4691-a4b8-d3b08c807ec4"
+      },
+      {
+        "name": "Wiena Adgentole",
+        "nodeType": "KEBELE",
+        "parent": "95749bc5-132f-4535-b1e0-27e1d3143f2b",
+        "id": "81155053-8f58-4be9-9d2e-1f30804ee61a"
+      },
+      {
+        "name": "Asebe Hari",
+        "nodeType": "KEBELE",
+        "parent": "5c7b7eb1-63f2-488e-ae48-7277cd6e38d9",
+        "id": "7e8340af-dc4c-4922-9533-ff831980fbce"
+      },
+      {
+        "name": "Bolhamo",
+        "nodeType": "KEBELE",
+        "parent": "5c7b7eb1-63f2-488e-ae48-7277cd6e38d9",
+        "id": "96c39d79-c745-4351-afdb-3fb2b20f9a55"
+      },
+      {
+        "name": "Bortidasna Galifagi",
+        "nodeType": "KEBELE",
+        "parent": "5244b40a-ec3b-4245-9252-167470eca1e8",
+        "id": "acd55093-2bbe-44de-a250-bf08996d6342"
+      },
+      {
+        "name": "Burtali",
+        "nodeType": "KEBELE",
+        "parent": "5c7b7eb1-63f2-488e-ae48-7277cd6e38d9",
+        "id": "5ee5cc7b-007e-4ed5-9f2a-c1cd73fd33a1"
+      },
+      {
+        "name": "Drufili",
+        "nodeType": "KEBELE",
+        "parent": "5c7b7eb1-63f2-488e-ae48-7277cd6e38d9",
+        "id": "6830184e-1f77-46b3-a0a1-588e79589825"
+      },
+      {
+        "name": "Gele Alo",
+        "nodeType": "KEBELE",
+        "parent": "5244b40a-ec3b-4245-9252-167470eca1e8",
+        "id": "8fb5e87b-731a-49bc-9608-d4bc77233f50"
+      },
+      {
+        "name": "Gerbo Hafe",
+        "nodeType": "KEBELE",
+        "parent": "5c7b7eb1-63f2-488e-ae48-7277cd6e38d9",
+        "id": "389f3eb1-2e3d-461b-a609-047acba9bb23"
+      },
+      {
+        "name": "Hugub",
+        "nodeType": "KEBELE",
+        "parent": "5c7b7eb1-63f2-488e-ae48-7277cd6e38d9",
+        "id": "f8b3e6a1-de76-4174-bdf8-b7cb4df6ddb3"
+      },
+      {
+        "name": "Kefas Idoli",
+        "nodeType": "KEBELE",
+        "parent": "5c7b7eb1-63f2-488e-ae48-7277cd6e38d9",
+        "id": "721b9862-a20c-4bcd-b77b-3864c7917e04"
+      },
+      {
+        "name": "Seganto",
+        "nodeType": "KEBELE",
+        "parent": "5c7b7eb1-63f2-488e-ae48-7277cd6e38d9",
+        "id": "52e484fe-7716-4e9d-864e-213970b411e3"
+      },
+      {
+        "name": "Tirtira",
+        "nodeType": "KEBELE",
+        "parent": "5c7b7eb1-63f2-488e-ae48-7277cd6e38d9",
+        "id": "417f4c56-8673-43c5-962e-ffeb26468cc9"
+      },
+      {
+        "name": "Adaytu",
+        "nodeType": "KEBELE",
+        "parent": "2a50f3cb-6965-4bf0-a54f-64e27b65671a",
+        "id": "291cb329-0cee-4ac9-b5af-4275e525bd24"
+      },
+      {
+        "name": "Adeyimabure",
+        "nodeType": "KEBELE",
+        "parent": "f35b6774-443b-4448-be4b-8ddb7a117118",
+        "id": "6b32c1c8-c1fc-4b74-883b-ab98e366489f"
+      },
+      {
+        "name": "Afcase",
+        "nodeType": "KEBELE",
+        "parent": "01d63c98-a1a7-4630-b58d-6fa6225a4604",
+        "id": "07707925-10d3-4795-8c89-96a1dfee5620"
+      },
+      {
+        "name": "Bida",
+        "nodeType": "KEBELE",
+        "parent": "f35b6774-443b-4448-be4b-8ddb7a117118",
+        "id": "7f9665c6-1a45-420c-bab7-c0db079fd5c9"
+      },
+      {
+        "name": "Biedaforo",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "0456d5a2-ff76-4a1f-b32c-01f6f23c932f"
+      },
+      {
+        "name": "Bira Eforo",
+        "nodeType": "KEBELE",
+        "parent": "f35b6774-443b-4448-be4b-8ddb7a117118",
+        "id": "ed71334f-56bb-4d61-80d3-504da154661b"
+      },
+      {
+        "name": "Debel",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "c3f560cb-298f-4fba-9d1c-f4e6b8ee3df3"
+      },
+      {
+        "name": "Dhanan-Weere",
+        "nodeType": "KEBELE",
+        "parent": "2a50f3cb-6965-4bf0-a54f-64e27b65671a",
+        "id": "f1275bb7-de29-4df2-8a2b-474acbd36b30"
+      },
+      {
+        "name": "Gebeyabora",
+        "nodeType": "KEBELE",
+        "parent": "f35b6774-443b-4448-be4b-8ddb7a117118",
+        "id": "62898839-cb95-454a-b746-5c05160f06bd"
+      },
+      {
+        "name": "Geferem",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "49ad8d1f-ea4f-416a-9456-26ad8d46fef3"
+      },
+      {
+        "name": "Geleladora",
+        "nodeType": "KEBELE",
+        "parent": "f35b6774-443b-4448-be4b-8ddb7a117118",
+        "id": "6661e3e7-e393-4858-b87d-d14d0b8171e2"
+      },
+      {
+        "name": "Gewane Town",
+        "nodeType": "KEBELE",
+        "parent": "f35b6774-443b-4448-be4b-8ddb7a117118",
+        "id": "39c2ea98-c62a-40eb-9e05-a717c2569a71"
+      },
+      {
+        "name": "Hengego",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "450c850e-9422-4ae3-bc7c-07dd4fdc4b70"
+      },
+      {
+        "name": "Hoyale",
+        "nodeType": "KEBELE",
+        "parent": "2a50f3cb-6965-4bf0-a54f-64e27b65671a",
+        "id": "a93b3c51-ff15-47ea-99ee-251c9936ee9e"
+      },
+      {
+        "name": "Kodoe",
+        "nodeType": "KEBELE",
+        "parent": "60baf057-c4d0-41d1-bfba-2c8e91482625",
+        "id": "91cd6bc2-4e6c-4f63-89ce-022bd5222155"
+      },
+      {
+        "name": "Mateka",
+        "nodeType": "KEBELE",
+        "parent": "f35b6774-443b-4448-be4b-8ddb7a117118",
+        "id": "5651b384-2fac-48b4-8095-b407ab4b5f7f"
+      },
+      {
+        "name": "Ourafeta",
+        "nodeType": "KEBELE",
+        "parent": "f35b6774-443b-4448-be4b-8ddb7a117118",
+        "id": "196397bc-e608-4752-8b7a-a5351fa8f58c"
+      },
+      {
+        "name": "Yigile",
+        "nodeType": "KEBELE",
+        "parent": "f35b6774-443b-4448-be4b-8ddb7a117118",
+        "id": "67f01f7f-4da9-4246-8ae1-25b166a8b663"
+      },
+      {
+        "name": "Debel",
+        "nodeType": "KEBELE",
+        "parent": "aa085bbe-2a94-4b20-9b36-28bfee47acc5",
+        "id": "d05a0e0a-8c00-49fe-bf99-8e1dac68b57d"
+      },
+      {
+        "name": "Edelu",
+        "nodeType": "KEBELE",
+        "parent": "aa085bbe-2a94-4b20-9b36-28bfee47acc5",
+        "id": "1ef75e3a-f7d1-4260-a938-8d2dcfd6884a"
+      },
+      {
+        "name": "Fentona Asela",
+        "nodeType": "KEBELE",
+        "parent": "aa085bbe-2a94-4b20-9b36-28bfee47acc5",
+        "id": "22687df2-8ee8-400a-96ce-64b46f8e379d"
+      },
+      {
+        "name": "Irikoma",
+        "nodeType": "KEBELE",
+        "parent": "aa085bbe-2a94-4b20-9b36-28bfee47acc5",
+        "id": "ffba59ad-dd0c-4bec-a3ba-0e99b46793fb"
+      },
+      {
+        "name": "Keheruli",
+        "nodeType": "KEBELE",
+        "parent": "aa085bbe-2a94-4b20-9b36-28bfee47acc5",
+        "id": "09319b7a-0b83-4c55-993b-1eede5b2413a"
+      },
+      {
+        "name": "Namaara",
+        "nodeType": "KEBELE",
+        "parent": "84f45ca1-5f4c-4fa5-a263-cc94f72a58f6",
+        "id": "5afd6999-0a79-422f-bfd5-25cc01e659b2"
+      },
+      {
+        "name": "Sedeha Melefu",
+        "nodeType": "KEBELE",
+        "parent": "aa085bbe-2a94-4b20-9b36-28bfee47acc5",
+        "id": "313b3555-4afb-4b89-83d6-7553ad64b06a"
+      },
+      {
+        "name": "Alebedeh Mesked",
+        "nodeType": "KEBELE",
+        "parent": "aa085bbe-2a94-4b20-9b36-28bfee47acc5",
+        "id": "ad5922ca-c494-4cf9-ae56-2e6e40297284"
+      },
+      {
+        "name": "Alele Sulula Town",
+        "nodeType": "KEBELE",
+        "parent": "6935993e-80bf-476e-ac2b-ce72c78158e5",
+        "id": "f75dcdf2-1f94-4e57-badb-b941e5b5d73a"
+      },
+      {
+        "name": "Andenya Badole",
+        "nodeType": "KEBELE",
+        "parent": "6935993e-80bf-476e-ac2b-ce72c78158e5",
+        "id": "36ab7773-688f-481b-ad2f-a6b0f39b0be6"
+      },
+      {
+        "name": "Bilu",
+        "nodeType": "KEBELE",
+        "parent": "6935993e-80bf-476e-ac2b-ce72c78158e5",
+        "id": "421d134b-3e68-47bb-86de-5ae25c6c2aec"
+      },
+      {
+        "name": "Bolotamo",
+        "nodeType": "KEBELE",
+        "parent": "6935993e-80bf-476e-ac2b-ce72c78158e5",
+        "id": "f8c3e812-3572-4971-abc1-fc22359bd89d"
+      },
+      {
+        "name": "Buti",
+        "nodeType": "KEBELE",
+        "parent": "6935993e-80bf-476e-ac2b-ce72c78158e5",
+        "id": "a95238e4-c48d-4a10-bd06-5700cf42f10b"
+      } 
  ]  
 }
