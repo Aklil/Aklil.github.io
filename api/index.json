@@ -1,0 +1,61 @@
+{
+    "users": [
+      {
+        "id": "fe57dc1d-163e-4060-9049-13f0b3c289f0",
+        "username": "jazz",
+        "pin": "1234",
+        "authToken": "fe57dc1d-163e-4060-9049-13f0b3c289f0",
+        "first_name": "Robert",
+        "last_name": "Schwartz",
+        "phoneNumber": "0911343546",
+        "enabled": true
+      },
+      {
+        "id": "5fb152d3-276a-45f9-8711-08416e7be5a1",
+        "username": "jass",
+        "pin": "1234",
+        "authToken": "fe57dc1d-163e-4060-9049-13f0b3c289f0",
+        "first_name": "Lucy",
+        "last_name": "Ballmer",
+        "phoneNumber": "0911343546",
+        "enabled": true
+      }
+    ],
+    "permissions": [
+      {
+        "id": "FARM_ACTIVITY",
+        "description": "Farm Activity"
+      },
+      {
+        "id": "INPUT",
+        "description": "Input"
+      },
+      {
+        "id": "OUTPUT",
+        "description": "Output"
+      }
+    ],
+    "userPermissions": [
+      {
+        "userId": "fe57dc1d-163e-4060-9049-13f0b3c289f0",
+        "permissionId": "FARM_ACTIVITY"
+      },
+      {
+        "userId": "fe57dc1d-163e-4060-9049-13f0b3c289f0",
+        "permissionId": "INPUT"
+      },
+      {
+        "userId": "fe57dc1d-163e-4060-9049-13f0b3c289f0",
+        "permissionId": "OUTPUT"
+      },
+      {
+        "userId": "5fb152d3-276a-45f9-8711-08416e7be5a1",
+        "permissionId": "FARM_ACTIVITY"
+      },
+
+      {
+        "userId": "5fb152d3-276a-45f9-8711-08416e7be5a1",
+        "permissionId": "INPUT"
+      }
+    ]
+  }
