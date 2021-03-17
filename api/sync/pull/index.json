@@ -10,7 +10,7 @@
      "id": "dd952726-0ae2-4f0a-bb1c-90b80941c62f",
      "name": "ARSI PC-WOREDA2",
      "type": "PRIMARY_COOPERATIVE",
-     "locationNodeId": "add26108-2fac-40d3-9f8a-535bb08a67a7"
+     "locationNodeId": "e53ebfd6-96b3-4419-bc23-727ec14ae571"
    }
  ],
  "inputs": [
@@ -112,7 +112,7 @@
    },
    {
        "userId": "5fb152d3-276a-45f9-8711-08416e7be5a1",
-       "locationNodeId": "add26108-2fac-40d3-9f8a-535bb08a67a7"
+       "locationNodeId": "e53ebfd6-96b3-4419-bc23-727ec14ae571"
    }
  ],
  "locations": [
